@@ -1,2 +1,3 @@
 .exclude_me_please
 log/
+*.orig
