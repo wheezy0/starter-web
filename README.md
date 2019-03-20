@@ -11,3 +11,5 @@ and some more stuff
 
 Sample website with plenty of files for demos
 Some more sampla text
+
+### Copyright
