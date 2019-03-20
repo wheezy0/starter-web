@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+DRET
+
 ## Introduction
 
 some intro stuff
@@ -14,4 +16,4 @@ Some more sampla text
 
 ### Copyright
 
-some copyrgiht stuff
+syayayayyaome copyrgiht stuff
